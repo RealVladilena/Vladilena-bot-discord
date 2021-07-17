@@ -9,7 +9,7 @@ You must first have [Discord JS](https://discord.js.org/#/) installed on your pr
 
 ### Pre-requisites
 
-- A bot discord with a token ([Discord Developper Application](https://discord.com/developers/applications/726766282354982912/information)
+- A bot discord with a token [Discord Developper Application](https://discord.com/developers/applications/726766282354982912/information)
 - Discord JS = [Discord JS](https://discord.js.org/#/)
 - Node JS = [Node JS](https://nodejs.org/en/)
 
