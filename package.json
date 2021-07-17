@@ -1,0 +1,20 @@
+{
+  "name": "your-bot-name",
+  "version": "00",
+  "description": "your description",
+  "main": "main.js",
+  "engines": {
+    "node": "12.16.2"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": "https://github.com/SaabniaTv/Alice-bot-discord.git",
+  "author": "SaabniaTv",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^2.1.0"
+  }
+}
