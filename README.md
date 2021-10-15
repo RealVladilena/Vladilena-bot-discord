@@ -1,4 +1,4 @@
-# Alice-bot-discord
+# Vladiléna-bot-discord
 
 This is a simple bot discord where you can run any command via the prefix ``*``
 _example_ : ``*activity``
@@ -21,5 +21,5 @@ To make it operational, go to [/config.json](https://github.com/SaabniaTv/Alice-
 
 ## Author
 
-* **Alice** _alias_ [@SaabniaTv](https://github.com/SaabniaTv)
+* **Vladiléna** _alias_ [@SaabniaTv](https://github.com/SaabniaTv)
 
